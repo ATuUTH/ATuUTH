@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👨‍💻 ATuUTH — Developer Profile
 
-<!--
-**ATuUTH/ATuUTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm ATuUTH — a versatile developer passionate about building high-quality software solutions across Web, Android, and Desktop platforms.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Full-stack developer with experience in backend & frontend development
+- 📱 Android app development with Java & Kotlin
+- 🌐 Web applications using Python (Django), JavaScript, HTML/CSS
+- 💻 Desktop applications with Java (Swing/JavaFX)
+- 📚 Constantly learning and exploring new technologies
+- 🎯 Strong focus on clean code, performance, and UI/UX
+
+## 🛠️ Tech Stack
+
+| Domain       | Technologies                                |
+|--------------|---------------------------------------------|
+| 🖥️ Desktop   | Java, JavaFX, Swing                         |
+| 📱 Mobile    | Android (Java, Kotlin)                      |
+| 🌐 Web       | HTML, CSS, JavaScript, Python (Django)      |
+| 🔧 Backend   | Django, Java (Servlets), REST APIs          |
+| 🗄️ Database | SQLite, MySQL, PostgreSQL                   |
+| 🧰 Tools     | Git, GitHub, Android Studio, VS Code        |
+
+## 📫 Contact
+
+- ✉️ Email: Huynhanhtu648@gmail.com
+- 🌐 GitHub: [github.com/ATuUTH](https://github.com/ATuUTH)  
+
+
+---
+
+> "Building applications that are fast, functional, and future-ready — across platforms."
